@@ -1,11 +1,16 @@
-
+body{
+  background-color: #333333;
+}
+.center{
+  text-align: center;
+}
 
 .container {
     display: flex;
 }
 
 .container__sidebar {
-    width: 20%;
+    width: 19.1%;
 }
 
 .container__main {
@@ -30,9 +35,33 @@ ul {
 }
 
 /* Imagem em cima (Index)*/
-.topbarimg{
-    background-image: url("img/topbar.jpeg");
+.cenper{
+  width: 100%;
+  height: 20%;
 }
+.topbarimg{
+   width: 100%;
+   height: auto;
+}
+.indeximg{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  /* Add a black background color to the top navigation */
  .topnav {
     background-color: #333;
