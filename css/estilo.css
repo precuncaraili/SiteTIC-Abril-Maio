@@ -216,3 +216,7 @@ img.juan{
     	width: 100%;
 
 }
+.lirow{
+	display: table;
+	clear: both;
+}
