@@ -204,3 +204,15 @@ img.juan{
 	background: #1f3c58;
 	color: #ebebeb;
 }
+.lipadding{
+	padding: 8px 16px!important;
+    	padding-top: 8px !important;
+    	padding-right: 16px !important;
+    	padding-bottom: 8px !important;
+    	padding-left: 16px !important;
+}
+.licol{
+	float: left;
+    	width: 100%;
+
+}
